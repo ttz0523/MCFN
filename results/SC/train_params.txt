@@ -1,0 +1,17 @@
+-----------------------Date: 2024/09/15 09:11:32-----------------------
+project_name = Base-main
+is_differentiable = True
+with_diffusion = False
+only_decoder = False
+epoch_number = 150
+batch_size = 8
+train_continue = False
+train_continue_path = MBRS-adamw-unet-perceptual-dwtpre_differentiableTrue_m64_Superposed([ScreenShooting(8)])__2024_03_28__10_04_38/
+train_continue_epoch = 44
+dataset_path = E:\workspace\datasets_10000/
+save_images_number = 2
+H = 128
+W = 128
+message_length = 64
+lr = 0.001
+noise_layers = ['Superposed([ScreenShooting()])']
